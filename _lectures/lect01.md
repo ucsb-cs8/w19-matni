@@ -8,6 +8,8 @@ annotatedpdfurl: /lectures/lect1_ann.pdf
 annotatedready: false
 ---
 
+<a href="{{lect.pdfurl | relative_url }}" data-ajax="false">Slides PDF</a>
+
 # Intro to Course Logistics
 
 * Review the syllabus at [this link.](http://cs.ucsb.edu/~zmatni/syllabi/CS8W19_syllabus.pdf){:target="_blank"}
