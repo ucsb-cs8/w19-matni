@@ -8,8 +8,7 @@ annotatedpdfurl: /lectures/lect1_ann.pdf
 annotatedready: false
 ---
 
-<a href="{{lect.pdfurl | relative_url }}" data-ajax="false">Slides PDF</a>
-<a href="{{lect.pdfurl}}" data-ajax="false">Slides PDF</a>
+<a href="{{pdfurl | relative_url }}" data-ajax="false">Slides PDF</a>
 
 # Intro to Course Logistics
 
