@@ -8,6 +8,8 @@ annotatedpdfurl:
 annotatedready: false
 ---
 
+<a href="{{page.pdfurl | relative_url }}" data-ajax="false">Slides PDF</a>
+
 # Python Demo Code Used
 
 Try these out again on IDLE and re-live the glory times from class... :)
