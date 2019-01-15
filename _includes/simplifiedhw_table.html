@@ -11,11 +11,11 @@
 {% for hw in site.hwk %}
 
 <tr class={% if hw.ready %}"ready"{% else %}"not-ready"{% endif %} >
-  <td class="simlifiedhw_num"  ><a href="{{hw.hwpdf | relative_url}}" data-ajax="false">{{ hw.num }}</a></td>
-  <td class="simlifiedhw">{{hw.ready}}</td>
-  <td class="simlifiedhw_desc" >{{hw.desc }}</td>
-  <td class="simlifiedhw_assigned" >{{hw.assigned | date: "%a %m/%d %I:%M%p" }}</td>
-  <td class="simlifiedhw_due" >{{hw.due | date: "%a %m/%d %I:%M%p" }}</td>
+  <td class="simplifiedhw_num"  ><a href="{{hw.hwpdf | relative_url}}" data-ajax="false">{{ hw.num }}</a></td>
+  <td class="simplifiedhw">{{hw.ready}}</td>
+  <td class="simplifiedhw_desc" >{{hw.desc }}</td>
+  <td class="simplifiedhw_assigned" >{{hw.assigned | date: "%a %m/%d %I:%M%p" }}</td>
+  <td class="simplifiedhw_due" >{{hw.due | date: "%a %m/%d %I:%M%p" }}</td>
 </tr>
 
 {% if hw.last_before %}
