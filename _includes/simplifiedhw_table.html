@@ -12,7 +12,7 @@
 {% for hw in site.hwk %}
 
 <tr class={% if hw.ready %}"ready"{% else %}"not-ready"{% endif %} >
-  <td class="simplifiedhw_num"  > {{hw.num}} </td>
+  <td class="simplifiedhw_num" ><a href="{{hw.url | relative_url }}" data-ajax="false">{{ hw.num }}</a></td>
   <td class="simplifiedhw_num_pdf"  ><a href="{{hw.hwpdf | relative_url }}" data-ajax="false">{{ hw.num }}</a></td>
   <td class="simplifiedhw_ready">{{hw.ready}}</td>
   <td class="simplifiedhw_desc" >{{hw.desc }}</td>
