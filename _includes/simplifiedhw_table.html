@@ -8,7 +8,7 @@
   <th class="asn_due" >due</th>
 </tr>
 
-{% for hw in site.hw %}
+{% for hw in site.hwk %}
 
 <tr class={% if hw.ready %}"ready"{% else %}"not-ready"{% endif %} >
   <td class="simlifiedhw_num"  ><a href="{{hw.hwpdf}}" data-ajax="false">{{ hw.num }}</a></td>
