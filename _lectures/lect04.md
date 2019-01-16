@@ -10,7 +10,7 @@ annotatedready: false
 
 <a href="{{page.pdfurl | relative_url }}" data-ajax="false">Slides PDF</a>
 
-
+```python
 # My first function! Yay!
 def dbl(x):
 	"""This function returns double its input x"""
@@ -84,3 +84,4 @@ math.sqrt(3)
 math.sin(3.14159)
 pieye = math.pi
 math.tan(pieye/4)
+```
