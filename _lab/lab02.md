@@ -3,7 +3,7 @@ layout: lab
 num: lab02
 ready: true
 desc: "Writing functions and tests"
-assigned: 2019-1-22 09:00:00.00-7
+assigned: 2019-1-22 13:00:00.00-7
 due: 2019-1-25 23:59:00.00-7
 csxx: cs8
 ---
@@ -15,7 +15,7 @@ In this lab, you'll get more practice with:
 
 ## This lab must be done solo
 
-<p>This is an "easy" lab - you are going to write 2 simple functions (one to find the perimeter of a rectangle and another to calculate the area of a triangle). The main point is HOW TO BEST TEST FUNCTIONS once they are written. The writing of a function is fun and can be creative, but we HAVE to be able to test it properly and thoroughly and that often involves not just good creativity, but good technique.</p>
+<p>This is a somehow "easy" lab - you are going to write 2 simple functions (one to find the perimeter of a rectangle and another to calculate the area of a triangle). The main point is HOW TO BEST TEST FUNCTIONS once they are written. The writing of a function is fun and can be creative, but we HAVE to be able to test it properly and thoroughly and that often involves not just good creativity, but good technique.</p>
 <p>We will be using `pytest`, like we did before in lab01 in order to write TEST CASES. When you finally submit your work on Gradescope, the autograder will go ahead and test your code in even more ways.</p>
 
 ## Step 1: Verify that `pytest` is working on the machine you plan to work on
