@@ -1,7 +1,7 @@
 ---
 num: "lect07"
 lecture_date: 2019-01-30
-desc: "Modules and Conditionals"
+desc: "Loops"
 ready: true
 pdfurl: /lectures/pdf/lect07.pdf
 annotatedpdfurl:
