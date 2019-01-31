@@ -14,7 +14,6 @@ annotatedready: false
 ##########################################
 # Class Exercise 1 (if-else)
 age = int(input("How old are you? "))
-
 if (age % 2 == 0):
 	print("Your age is an even number!")
 else:
@@ -23,7 +22,6 @@ else:
 
 # Class Exercise 2 (if-elif-else)
 age = int(input("How old are you? "))
-
 if (age % 2 == 0) and (age > 0):
 	print("Your age is an even number!")
 elif (age % 2 != 0) and (age > 0):
