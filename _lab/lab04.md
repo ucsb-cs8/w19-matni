@@ -24,7 +24,6 @@ A reminder about working with a pair programming partner:
 
 * Your partner must be enrolled in the same lab section as you.
 * You and your partner must agree to work together outside of lab section in case you do not finish the lab during your lab time. You must agree to reserve at least two hours outside of lab section to work together if needed (preferrably during an open lab hour where you can work in Phelps 3525 and ask a mentor for help). You are responsible for exchanging contact information in case you need to reach your partner.
-* If you choose to work with a partner, then you must choose a partner you have not worked with before.
 * You MUST add your partner on Gradescope when submitting your work <strong>*<u>EACH TIME</u>*</strong> you submit a file(s). After uploading your file(s) on Gradescope, there is a "Group Members" link at the bottom (or "Add Group Member" under "Groups") where you can select the partner you are working with. Whoever uploaded the submission must make sure your partner is part of your Group. Click on "Group Members" -> "Add Member" and select your partner from the list.
 
 Once you and your partner are in agreement, choose an initial driver and navigator, and have the driver log into their account.
@@ -39,8 +38,8 @@ In this lab, you will need to create two files:
 
 Starter code is provided for you and are located at (you may need to refresh the page if the links do not load immediately):
 
-* </lab/{{page.num}}/{{page.num}}.py>
-* </lab/{{page.num}}/{{page.num}}_tests.py>
+* <a href="{{page.num}}/{{page.num}}.py | relative_url }}" data-ajax="false"></lab/{{page.num}}/{{page.num}}.py></a>
+* <a href="{{page.num}}/{{page.num}}_tests.py | relative_url }}" data-ajax="false"></lab/{{page.num}}/{{page.num}}_tests.py></a>
 
 You will complete the portions in the starter code by doing the following:
 
