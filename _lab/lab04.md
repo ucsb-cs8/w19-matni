@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab04
-ready: false
+ready: true
 desc: "Conditionals, nested control structures, and loops"
 assigned: 2019-2-5 13:00:00:00.00-7
 due: 2019-2-11 23:59:00.00-7
@@ -38,8 +38,9 @@ In this lab, you will need to create two files:
 
 Starter code is provided for you and are located at (you may need to refresh the page if the links do not load immediately):
 
-* <a href="{{ {{page.num}}/{{page.num}}.py | relative_url }}" data-ajax="false">{{page.num}}/{{page.num}}.py</a>
-* <a href="{{ {{page.num}}/{{page.num}}_tests.py | relative_url }}" data-ajax="false">{{page.num}}/{{page.num}}_tests.py></a>
+
+* <a href="{{page.num}}/{{page.num}}.py" data-ajax="false">{{page.num}}/{{page.num}}.py</a>
+* <a href="{{page.num}}/{{page.num}}_tests.py" data-ajax="false">{{page.num}}/{{page.num}}_tests.py</a>
 
 You will complete the portions in the starter code by doing the following:
 
