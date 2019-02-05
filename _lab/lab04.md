@@ -39,8 +39,8 @@ In this lab, you will need to create two files:
 Starter code is provided for you and are located at (you may need to refresh the page if the links do not load immediately):
 
 
-* <a href="{{page.num}}/{{page.num}}.py" data-ajax="false">{{page.num}}/{{page.num}}.py</a>
-* <a href="{{page.num}}/{{page.num}}_tests.py" data-ajax="false">{{page.num}}/{{page.num}}_tests.py</a>
+* <a href="lab04.py" data-ajax="false">lab04.py</a>
+* <a href="lab04_tests.py" data-ajax="false">lab04_tests.py</a>
 
 You will complete the portions in the starter code by doing the following:
 
