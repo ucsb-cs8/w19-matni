@@ -36,10 +36,10 @@ In this lab, you will need to create two files:
 * `{{page.num}}_tests.py` - file containing test cases
 * <strong>Please comment you and your partner's name (if applicable) at the top of each file.</strong>
 
-Starter code is provided for you and are located at (you may need to refresh the page if the links do not load immediately):
+Starter code (AND the test code!) is provided for you and are located at (you may need to refresh the page if the links do not load immediately):
 
-* <{{site.url}}/lab/{{page.num}}/{{page.num}}.py>
-* <{{site.url}}/lab/{{page.num}}/{{page.num}}_tests.py>
+* <a href="lab05.py" data-ajax="false">lab05.py</a>
+* <a href="lab05_tests.py" data-ajax="false">lab05_tests.py</a>
 
 You will complete the portions in the starter code by doing the following:
 
