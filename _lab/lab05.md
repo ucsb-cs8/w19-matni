@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab05
-ready: false
+ready: true
 desc: "More Loops - Accumulator Pattern, Updating Lists, and Filtering Lists"
 assigned: 2019-2-12 09:00:00.00-7
 due: 2019-2-18 23:59:00.00-7
