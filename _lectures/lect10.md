@@ -25,15 +25,15 @@ def countWords(sentence):
 ################################################
 def createListOfOdd(lst):
 	""" returns a new list that contains all """ 
-	""" the odd numbers in lst ""
-	newList = [
+	""" the odd numbers in lst """
+	newList = []
 	for item in lst:        
 		if item % 2 != 0:            
 			newList.append(item)        
 	return newList
 
 ################################################
-s = "How I wish you were here.nWe're just two lost souls swimming in a fishbowl,\nYear after year
+s = "How I wish you were here.nWe're just two lost souls swimming in a fishbowl,\nYear after year"
 
 s = """How I wish you were here.
 We’re just two lost souls swimming in a fishbowl,
