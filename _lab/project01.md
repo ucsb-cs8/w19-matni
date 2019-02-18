@@ -2,7 +2,7 @@
 layout: lab
 num: project01
 ready: true
-desc: "Project-01 Turtle Graphics: Scene from a forest"
+desc: "Turtle Graphics: Scene from a forest"
 assigned: 2019-2-19 13:00:00.00-7
 due: 2019-3-14 23:59:00.00-8
 prev_lab: lab03
