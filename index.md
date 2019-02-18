@@ -35,14 +35,6 @@ title: "CS8, W19, Matni"
  </div>
 </div>
 
-/*{% include collapse-button.html label="Programming Assignments" id="pa" %}
-<div class="collapse" id="pa">
- <div class="card card-body">
-  {% include pa_table.html %}
- </div>
-</div>
-*/
-
 {% include collapse-button.html label="Exams" id="exams" %}
 <div class="collapse" id="exams">
  <div class="card card-body">
