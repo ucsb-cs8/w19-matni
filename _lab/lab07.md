@@ -198,8 +198,3 @@ You can load your `{{page.num}}.py` and run `scrabbleWords` in IDLE's interactiv
 
 Once you're done with writing your functions, navigate to the Lab assignment "{{page.num}}" on Gradescope and upload your `{{page.num}}.py` and `{{page.num}}_student_tests.py` files. <strong>*Remember to add your partner to Groups Members for this submission on Gradescope if applicable. At this point, if you worked in a pair, it is a good idea for both partners to log into Gradescope and see if you can see the uploaded files for {{page.num}}.*</strong>
 
-<blockquote>
-  <p><font size="1">
-    Based on labs by M. Buoni and D. Mirza.
-  </font></p>
-</blockquote>
