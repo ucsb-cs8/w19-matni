@@ -47,6 +47,9 @@ offerings:
         baseurl: /m19-wang
 
 offering_links:
+  - title: Lectures
+    url: /lectures/
+    description: "Lecture Notes"
   - title: Hwk
     url: /hwk_list/
     description: "Homework Assignments"
